@@ -502,3 +502,17 @@ die --> e
 
 dativ (sein)
 alle --> en
+------------------------------------------------------------------
+verbos separables
+
+anrufen		llamada
+einkaufen	hacer las compras
+aufstehen	levantarse de la cama
+fernsehen	ver la television
+einsteigen/aussteigen	
+ankommen	arribar a un lugar
+mitnehmen	agarrar algo
+stattfinder	se celebra en/tiene lugar a las
+
+donde trabajo: bei "empresa"
+de que trabajo: als "profesion"
