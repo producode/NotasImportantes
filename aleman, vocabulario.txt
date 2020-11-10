@@ -1,0 +1,504 @@
+Deportes:
+
+mannschafttaport	deportes en equipo
+einzelsport		deportes de a uno
+Wassersport		deportes acuaticos
+wasserball 		Waterpolo
+rudern			kayak
+Kampfensport		deportes de pelea
+Wintersport		deportes de invierno
+skifahren / schifahren	sky
+eislaufen		patinaje sobre hielo
+snowboarden		snowboard
+Ballsport		deporte de pelota
+laufen/rennen		correr
+joggen			trotar
+Klavier spielen		tocar el piano
+am computer spielen	jugar a la computadora
+spazieren		caminar
+------------------------------------------------------------------
+Wechselpräpositionen:
+
+Auf -> arriba tocando
+über -> arriba sobre
+an -> al lado tocando
+neben -> al lado sin tocar
+unter -> abajo
+vor -> adelante
+hinter -> atras
+in -> dentro
+zwischen -> entre
+
+Wohin? (donde van las cosas)
+stellen -> colocar vertical
+legen -> colocar horizontal
+Ich lege den Bleistish unter den Tish
+------------------------------------------------------------------
+
+Wo? (dativ)
+der -> dem
+das -> dem
+die -> der
+diepl -> den
+------------------------------------------------------------------
+
+der Bleistift ist unter dem Tish
+
+Das haus|Die Wohnung
+s zimmer -> cuarto
+s schlafzimmer -> cuarto de dormir
+s Wohnzimmer -> living
+s Badenzimmer -> baño
+s Bad -> baño
+e Küche -> cocina
+r Balkon -> balcon
+r Flur -> corredor
+e Terrase -> terraza
+
+Die möbel
+s Bett,en -> la cama
+s kissen,en -> almohada
+r schreibtisch,e -> escritorio
+s Regal,e -> estante
+r Nachttisch -> mesita de noche
+e decke,n -> frasada
+e Lampe -> la lampara
+r Schrank,ä-e -> cajon
+e schublade,n -> cajon
+r Computer -> la computadora
+s Spiegel -> espejo
+s Bild -> cuadro
+s,r Poster -> el Poster
+e Kommode -> comoda(armario)
+s Soda -> sillon de 1 o mas cuerpos
+r Sessel -> el sillon de 1 cuerpo
+r Tish,e -> la mesa
+r Esstisch,e -> mesa de comedor
+r Tür -> la puerta
+s Fenster -> la ventana
+e Fenseher -> Television
+r Abfalleimer -> basura
+e Uhr -> reloj
+r Vorhang -> la cortin
+r Kühlschranke -> heladera
+e Spüle -> lavadero cocina
+r (Back)Ofen -> horno
+r Herb 
+e Miktewelle - microondas
+e Waschmaschin maquina de lavar
+e Dusche -> la ducha
+s Klo -> inodoro
+s Wanne -> bañera
+s Waschbecken -> lavabo del baño
+e Wand,e -> pared
+
+hängen -> colgar
+------------------------------------------------------------------
+
+nach -> hacia (dativ)
+.Ich reise nach Deutschland
+.Ich fahre nach Berlin
+.Nach hause
+Ichbin inder arbeit
+dann gehe ich nach
+ich lerne Deutsch nach
+
+In -> hacia(paises con articulo)
+die Usa, die  Turckey, die Schweiz
+
+Ich farhein in die usa
+. Espacio real (cine, parque,etc)
+
+indas, ins (paises nn
+in dem, im
+
+zu (dativ)
+zu der -> zur
+zu dem summer
+
+arbeit/schule
+Ich gehe zuder airbeit
+ir a la casa de alguien
+
+auf
+Ir a una isla o a una montaña.
+Ich reise auf mallorka Insel.
+
+an
+Hacia orillas de mares/rios/lagos
+------------------------------------------------------------------
+
+Verbos modales
+
+können (poder hacer algo)
+Ich kann Fußball spielen
+-------------------
+Ich       |kann
+du        |kannst
+er/sie/es |kann
+wir       |könner
+ihr       |könnt
+sie/Sie   |können
+-------------------
+
+müssen (deber hacer algo)
+-------------------
+Ich       |muss
+du        |musst
+er/sie/es |muss
+wir       |müssen
+ihr       |müsst
+sie/Sie   |müssen
+-------------------
+
+wollen (querer, desear ahora)
+-------------------
+Ich       |will
+du        |willst
+er/sie/es |will
+wir       |wollen
+ihr       |wollt
+sie/Sie   |wollen
+-------------------
+
+mögen (gustar) [sin verbo infinitivo]
+-------------------
+Ich       |mag
+du        |magst
+er/sie/es |mag
+wir       |mögen
+ihr       |mögt
+sie/Sie   |mögen
+-------------------
+
+möchten (me gustaria)
+-------------------
+Ich       |möchte
+du        |möchtest
+er/sie/es |möchte
+wir       |möchten
+ihr       |möchtet
+sie/Sie   |möchten
+-------------------
+
+dürfen (tener un permiso)
+-------------------
+Ich       |darf
+du        |durfst
+er/sie/es |darf
+wir       |dürfen
+ihr       |dürft
+sie/Sie   |dürfen
+-------------------
+
+sollen (consejo que debes seguir)
+-------------------
+Ich       |soll
+du        |sollst
+er/sie/es |soll
+wir       |sollen
+ihr       |sollt
+sie/Sie   |sollen
+-------------------
+------------------------------------------------------------------
+
+Zwar ... aber.
+es (algo malo) pero (algo bueno)
+Mein Haus ist zwar klein aber gemürde
+Die Miete ist zwar hock aber des Haus ist groß
+
+vocabulario
+gemütich / umgemütlich 		| acojedor / no acojedor
+kalt / warm  			| frio / calido
+bequem / umbequem		| comodo / incomodo
+nass / tracken			| mojado / seco
+beleuchtet			| iluminado
+sicher / unsicher-gefährlich	| seguro / inseguro
+sauber / schmutzig		| limpio / sucio
+lecker				| rico
+------------------------------------------------------------------
+
+bequem
+------------------------------------------------------------------
+
+die geschâfte
+
+s gechäft | negocio
+r supermarkt | supermercado
+r salon | peluqueria
+r gemüselade | verduleria
+r Biilaude | verduleria organica
+r lebensmitterlade | el almacen
+r Bahnhoft | estacion de tren
+r park | el parque
+s hotel | hotel
+s Hospital / s Krankerhaus |  hospital
+s restaurante | restaurante
+s Spielenwarenge | jugueteria
+s kino | cine
+s Museum | museo
+s Theater | teatro
+s Rathhaus | muniscipalidad
+s Einkaufszentrum | shopping
+s Cafè | cafeteria
+s Kaffeehaus | casa de cafe
+s Kaffegeschäft | cafeteria panaderia
+e Konditorei | Cafeteria con tortas
+e Bäckrei | Panaderia
+e Netzgerei | Carniceria
+e Bücherei / e Bioliothek | biblioteca
+e Buchhandlung | libreria
+e Eisenwarnhandlung | ferreteria
+e eisdiele | heladeria
+e polizeirevier | estacion de policia
+e bank | banco
+e pizzeria | pizzeria
+e kirche | kirche
+e schule | escuela
+e universität | universidad
+e hochschule | terciario
+e Apotheke | farmacia
+
+neben | pegado
+nah | cerca
+------------------------------------------------------------------
+
+Weil (porque, respuesta)
+------------------------
+Weil____Verb, Verb___.
+_____,weil____Verb.
+
+Dass (que, creer que)
+------------------------
+Dass____Verb, Verb___.
+_____,dass____Verb.
+
+Denke (pensar, pienso que)
+------------------------
+Denke____Verb, Verb___.
+_____,denke____Verb.
+
+Sicher (seguro, seguro que)
+------------------------
+Sicher____Verb, Verb___.
+_____,sicher____Verb.
+
+Noch einmal(nuevamente)
+------------------------
+Noch einmal___Verb, Verb___.
+_____,noch einmal___Verb.
+
+Möglich ()
+
+Finde (encuentro, encuentro que)
+-------------------------
+Finde____Verb, Verb___.
+_____,finde____Verb.
+------------------------------------------------------------------
+
+s Obst, e Obst | fruta
+s gemüsse. e gemüsse | verdura
+r Apfel, Äpfel | manzana
+e Banane, Bananen | banana
+r Brokkoli, e Brokkoli | brocoli
+e Erdbeere, e Erdbeeren | frutilla
+e Gurke, e Gurken | pepino
+e Honigmelone, e Honigmelonen | melon
+e Kartoffel, e Kartoffelen | papa
+e Karote, e Karoten | zanahoria
+e kirsche, e kirschen | cereza
+r Mais, e Maise | Choclo
+e Mango, e Mangos | Mango
+e Mandarine, e Mandarinen | Mandarina
+e Orange, e orangen | Naranja
+e Tomate, e Tomaten | tomate
+e Traube, e Trauben | uva
+e WasserMelon, e WasserMelonen | sandia
+e Zitrone, e Zitronen | limon
+
+e Frühstück | Desayuno
+s Brot, e Brote | Pan
+s Toast, e toaste | todas
+e Butter, e Butter | manteca
+e Margarine | margarina
+s CornFlaques (panqueque)
+s Müsli | cereal
+r Jogurht | Yogur
+r Kuchen | Torta
+e Torte, e Tornen | Torta
+r Frischkäse | queso untable
+e Marmelade, e Marmelade | mercelada
+r Pfankuche, e Pfankuchen
+e Waffel, e Waffelen | wafle
+r Zucher | azucar
+r SüBstoff | endulcorante
+
+die getrinke
+r Kaffee | cafe
+r Tee | te
+r saft | jugo
+r Orangesaft | jugo de naranja
+r Apfelsaft | jugo de manzana
+e Milch 
+e Wassel | agua
+e Cola | coca cola
+
+das essen
+s Ei, e Ier | huevo
+s Eis | helado
+s Fleish | Carne
+r Fish | pescado
+r Hamburgur | Hamburguesa
+s Hähnchen | Pollo
+s Schnitzel | Milanesa
+e Nudel, e Nudeln | Fideo
+e Pasta | Pasta
+e Pommel | Papas fritas
+r Reis | Arroz
+e Suppe, e Suppen | sopa
+r Tunfisch | atun
+e Wurst | Salchichas
+e WeiBwurst | salchicha blanca
+e Frankwurst | salchicha de frankfurt
+
+aufstehen | levantarse de la cama
+frühstücken | desayunar
+------------------------------------------------------------------
+
+essen 
+du isst
+es/sie isst
+
+lesen
+du liest
+er/sie liest
+
+sehen
+du siehst
+er/sie sieht
+------------------------------------------------------------------
+
+conectores:
+
+dann = danach | despues
+
+zuerst | primero (hice)
+
+Außendem = auch | tambien
+
+Anschlißend | enseguida
+
+Deshalb | por eso
+------------------------------------------------------------------
+
+die Uhr
+Wie Spät ist es?
+
+Es ist ...
+8:00 Es ist 8 Uhr
+8:30 Es ist halb 9
+8:15 Es ist viertel nach 8
+8:45 Es ist viertel vor 9
+8:25 Es ist 25 nach 8
+8:35 Es ist 25 vor 9
+
+8:35 Es ist 8 Uhr 25
+8:35 Es ist 8 Uhr 35
+------------------------------------------------------------------
+
+perfek pasado participio
+
+verbos inrregulaten
+
+anrufen -> angerufen
+aufstehen -> aufgestanden
+beginnen -> begonnen
+bleiben -> geblieben
+bringen -> gebracht
+denken -> gedacht
+essen -> gegessen
+finden -> gefunden
+gegehen -> gegaugen
+helfen -> geholfen
+kommen -> gekommen
+laufen -> gelaufen
+lesen -> gelesen
+mitnehmen -> mitgenommen
+nehmen -> genommen
+rufen -> gerufen
+schlend ->geschlafen
+schreiben -> geschrieben
+schrenn -> gefahren
+schwiemmen -> geschwommen
+sehen -> gesehen
+singen -> gesungen
+stattfinden -> stattgefunden
+stehen -> gestanden
+telefonieren -> telefoniert
+treffen -> getroffen
+trinken -> getrunken
+wissen -> gewusst
+
+las palabras provenientes del latin no llevan ge
+las palabras que empiezan con be/ent/er/rer/ernp/ge/zer no llevan ge
+------------------------------------------------------------------
+
+gestern | ayer
+Letzt | pasado
+letztes Jahr (das) | año pasado
+letzte woche (die) | mes pasado
+letzten tag  (der) | dia pasado
+------------------------------------------------------------------
+
+sein (past infinitive)
+waren
+ich	| war
+du	| warst
+er/sie	| war
+wie	| waren
+ihr	| wart
+Sie/sie	| waren
+
+haben (past infinitive)
+hatten
+ich	| hatte
+du	| hattest
+er/sie	| hatte
+wie	| hatten
+ihr	| hattet
+Sie	| hatten
+------------------------------------------------------------------
+
+von ___ bis ___
+ich habe zu lernen begonnen
+Um 20 Uhr hat mein Universität-Unterricht begonnen
+Um 20 Uhr hatte ich meinen Universität-Unterricht
+Er hat beendet
+
+dativ
+der -->	dem	meinem	einem
+das -->	dem	meinem	einem
+die -->	der	meiner	einer
+die -->	den	meinen	einen
+
+akusativ
+der --> dem	meinem	einem
+das --> das	mein	ein
+die --> die	meine	eine
+die --> die	meine	eine
+------------------------------------------------------------------
+
+nominativ (sein)
+der --> er
+das --> es
+die --> e
+die --> e
+
+akkusativ (sein)
+der --> en
+das --> es
+die --> e
+die --> e
+
+dativ (sein)
+alle --> en
