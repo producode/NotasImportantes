@@ -417,8 +417,10 @@ bleiben -> geblieben
 bringen -> gebracht
 denken -> gedacht
 essen -> gegessen
+fahren -> gefahren
 finden -> gefunden
 gegehen -> gegaugen
+gehen -> gegangen
 helfen -> geholfen
 kommen -> gekommen
 laufen -> gelaufen
@@ -426,6 +428,7 @@ lesen -> gelesen
 mitnehmen -> mitgenommen
 nehmen -> genommen
 rufen -> gerufen
+shzitzen -> gesessen
 schlend ->geschlafen
 schreiben -> geschrieben
 schrenn -> gefahren
@@ -489,16 +492,20 @@ die --> die	meine	eine
 ------------------------------------------------------------------
 
 nominativ (sein)
+sujeto
 der --> er
 das --> es
 die --> e
 die --> e
 
 akkusativ (sein)
+objeto directo
 der --> en
 das --> es
 die --> e
 die --> e
 
 dativ (sein)
+objeto indirecto
 alle --> en
+
