@@ -1,4 +1,4 @@
-Deportes:
+﻿Deportes:
 
 mannschafttaport	deportes en equipo
 einzelsport		deportes de a uno
@@ -32,6 +32,8 @@ zwischen -> entre
 Wohin? (donde van las cosas)
 stellen -> colocar vertical
 legen -> colocar horizontal
+hängen -> colgado
+gibt -> esta
 Ich lege den Bleistish unter den Tish
 ------------------------------------------------------------------
 
@@ -56,41 +58,44 @@ r Flur -> corredor
 e Terrase -> terraza
 
 Die möbel
-s Bett,en -> la cama
-s kissen,en -> almohada
-r schreibtisch,e -> escritorio
-s Regal,e -> estante
-r Nachttisch -> mesita de noche
 e decke,n -> frasada
-e Lampe -> la lampara
-r Schrank,ä-e -> cajon
-e schublade,n -> cajon
-r Computer -> la computadora
-s Spiegel -> espejo
-s Bild -> cuadro
-s,r Poster -> el Poster
-e Kommode -> comoda(armario)
-s Soda -> sillon de 1 o mas cuerpos
-r Sessel -> el sillon de 1 cuerpo
-r Tish,e -> la mesa
-r Esstisch,e -> mesa de comedor
-r Tür -> la puerta
-s Fenster -> la ventana
-e Fenseher -> Television
-r Abfalleimer -> basura
-e Uhr -> reloj
-r Vorhang -> la cortin
-r Kühlschranke -> heladera
-e Spüle -> lavadero cocina
-r (Back)Ofen -> horno
-r Herb 
-e Miktewelle - microondas
-e Waschmaschin maquina de lavar
 e Dusche -> la ducha
+e Fenseher -> Television
+e Kommode -> comoda(armario)
+e Lampe -> la lampara
+e Mikrowelle - microondas
+e schublade,n -> cajon
+e Spüle -> lavadero cocina
+e Uhr -> reloj
+e Wand,e -> pared
+e Wanne -> bañadera
+e Waschmaschin -> lavarropa
+r (Back)Ofen -> horno
+r Abfalleimer -> basura
+r Computer -> la computadora
+r Esstisch,e -> mesa de comedor
+r Herb 
+r Kühlschranke -> heladera
+r Nachttisch -> mesita de noche
+r Schrank,ä-e -> cajon
+r schreibtisch,e -> escritorio
+r Spiegel
+r Sessel -> el sillon de 1 cuerpo
+r Stuhl -> silla
+r Tish,e -> la mesa
+r Tür -> la puerta
+r Vorhang -> la cortina
+s Bett,en -> la cama
+s Bild -> cuadro
+s Fenster -> la ventana
+s kissen,en -> almohada
 s Klo -> inodoro
+s Regal,e -> estante
+s Soda -> sillon de 1 o mas cuerpos
+s Spiegel -> espejo
 s Wanne -> bañera
 s Waschbecken -> lavabo del baño
-e Wand,e -> pared
+s,r Poster -> el Poster
 
 hängen -> colgar
 ------------------------------------------------------------------
@@ -522,3 +527,11 @@ stattfinder	se celebra en/tiene lugar a las
 
 donde trabajo: bei "empresa"
 de que trabajo: als "profesion"
+
+abschlussprüfung
+Gesssellschaft
+Ingenierie
+bestehen
+ummehr zu übungen
+
+dativ: Holf, danke
